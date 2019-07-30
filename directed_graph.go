@@ -1,4 +1,4 @@
-package directed_acyclic_graph
+package go_directed_acyclic_graph
 
 // DirectedGraph is a graph supporting directed edges between nodes.
 type DirectedGraph struct {

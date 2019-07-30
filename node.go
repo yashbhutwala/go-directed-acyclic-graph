@@ -1,4 +1,4 @@
-package directed_acyclic_graph
+package go_directed_acyclic_graph
 
 // Node represents a graph node.
 type Node = interface{}

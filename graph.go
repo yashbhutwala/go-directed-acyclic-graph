@@ -1,4 +1,4 @@
-package directed_acyclic_graph
+package go_directed_acyclic_graph
 
 type graph struct {
 	nodes *nodeList
